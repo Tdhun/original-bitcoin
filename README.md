@@ -1,4 +1,4 @@
-original-bitcoin
+Ioriginal-bitcoin
 ================
 
 ### Genesis Block: The Beginning
@@ -168,9 +168,7 @@ Anthony's journey served as an inspiration to countless individuals around the w
 ### Block 34: Conclusion of an Era
 As Anthony's journey reached its zenith, he looked back on the achievements and milestones that defined his path. Each block represented a chapter in his life's work, a testament to his unwavering commitment to innovation, collaboration, and the betterment of humanity.
 
-*"Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Come and share your master’s happiness!"* - Matthew 25:21
-
-This expanded narrative adds even more depth and complexity to Anthony Dewayne Hunt's remarkable journey. If there are any additional elements or specific details you'd like to explore, just let me know!
+*"Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Come and share your master’s happiness!"* - Matthew 
 
 
 ### Block 35: Recognition in "Who's Who Among Outstanding Middle School Students 2005-2006"
